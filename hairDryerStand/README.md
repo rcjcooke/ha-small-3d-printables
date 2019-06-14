@@ -11,8 +11,6 @@ This has been printed on my FlashForge Inventor in PLA and prints easily with no
 
 Happy Printing!
 
-![Mounted stands](./)
+![Mounted stands](./IMG_0520.jpg)
 
-![GHD Stand in use](./)
-
-![Hair Dryer stand in use](./)
+![Stands in use](./IMG_0519.jpg)
